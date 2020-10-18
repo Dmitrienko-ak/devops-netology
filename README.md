@@ -10,3 +10,4 @@ override.tf.json -аналогично предыдущему
 terraform.rc -аналогично предыдущему
 *_override.tf -игнорировать все файлы заканчивающиеся _override.tf
 *_override.tf.json -игнорировать все файлы заканчивающиеся _override.tf.json
+New test for lesson 3
